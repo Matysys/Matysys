@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 ![Profile views](https://gpvc.arturio.dev/Matysys)
 
-![](https://komarev.com/ghpvc/?username=Matysys&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Matysys&style=flat-square&color=blueviolet)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matysys&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
