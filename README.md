@@ -1,8 +1,6 @@
-### Hi there, I'm Mateus Lima! 👋
+### Hi there, I'm Mateus Lima! 
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Backend Development
 - 📫 How to reach me: matysys333@outlook.com
 
 ![](https://komarev.com/ghpvc/?username=Matysys&style=for-the-badge&color=blueviolet)
