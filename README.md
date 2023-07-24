@@ -1,7 +1,9 @@
 ### Hi there, I'm Mateus Lima! 
 
 - 🌱 I’m currently learning Backend Development
-- 📫 How to reach me: matysys333@outlook.com
+- 📫 How to reach me: matysys333@outlook.com or matysys333@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-purple)](https://www.linkedin.com/in/mateuslima333/)
 
 ![](https://komarev.com/ghpvc/?username=Matysys&style=for-the-badge&color=blueviolet)
 
